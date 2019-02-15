@@ -23,7 +23,7 @@
 </li>
 <li>pip3 install -r requirements.txt
 </li>
-<li>Replace &lt;YOUR ID&gt;, &lt;YOUR ACCESS KEY&gt; and &lt;YOUR REGION&gt; with the appropriate values that you can get from your amazon account</li>
+<li>Replace &lt;YOUR ID&gt;, &lt;YOUR ACCESS KEY&gt; and &lt;YOUR REGION&gt; from the aws_instances.py script with the appropriate values that you can get from your amazon account</li>
 </ol>
 </ol>
 <p>&nbsp;</p>
