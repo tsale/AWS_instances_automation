@@ -11,20 +11,17 @@
 <ol>
 <li>Install python3 if you haven't already
 <ul>
-<li>
-<blockquote>apt-get install python3</blockquote>
+<li>apt-get install python3
 </li>
 </ul>
 </li>
 <li>Install pip3
 <ul>
-<li>
-<blockquote>apt-get install python3-pip</blockquote>
+<li>apt-get install python3-pip
 </li>
 </ul>
 </li>
-<li>
-<blockquote>pip3 install -r requirements.txt</blockquote>
+<li>pip3 install -r requirements.txt
 </li>
 </ol>
 <p>&nbsp;</p>
