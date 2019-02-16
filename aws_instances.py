@@ -1,5 +1,6 @@
+#!/usr/bin/python3
+#!/usr/bin/env python
 
-  # check whether at least two elements were entered
 import boto3
 import sys
 
